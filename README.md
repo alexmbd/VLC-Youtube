@@ -8,8 +8,8 @@ pip install youtube-search-python==1.4.0
 pip install pytube==10.4.1
 ```
 OR
-[version 1.4.0] [youtubesearchpython](https://pypi.org/project/youtube-search-python/1.4.0/)
-[version 10.4.1] [pytube](https://pypi.org/project/pytube/10.4.1/)
+- [version 1.4.0] [youtubesearchpython](https://pypi.org/project/youtube-search-python/1.4.0/)
+- [version 10.4.1] [pytube](https://pypi.org/project/pytube/10.4.1/)
 
 Versions other than the ones mentioned above may break the code so it is advisable to install those versions until further testing has been done on other ones.
 
